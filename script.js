@@ -1,4 +1,3 @@
-// script.js
 const modeSwitch = document.getElementById('modeSwitch');
 const body = document.body;
 
